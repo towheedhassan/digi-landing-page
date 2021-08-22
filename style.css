@@ -1,0 +1,60 @@
+*{
+  margin: 0;]
+  padding: 0;
+  }
+  ::selection{
+    background-color: #731e074b;
+  }
+.navbar-brand img{
+  width: 100%;
+  height: 35px;
+}
+.navbar-nav a {
+  font-weight: 600;
+  font-size: 25px;
+  color: #848484 !important;
+  
+  padding-left: 45px !important;
+}
+.navbar-nav a:hover{
+  color: #731F07 !important;
+}
+.collapse, .navbar-collapse{
+  text-align: center;
+  padding: 20px;
+}
+.banner{
+  padding: 10px 15px;
+}
+.b-t{
+
+}
+.b-t h1{
+  padding-bottom: 10px;
+  font-size: 55px;
+  font-weight: 700;
+  letter-spacing: px;
+  color: #506269;
+}
+.b-t p{
+  font-size: 25px;
+  font-weight: 400;
+  color: #848484;
+}
+.b-t button{
+  margin-top: 25px;
+  border: none;
+  background-color: #A5410F;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 95px;
+}
+.b-t button:hover{
+  background-color: #a5410fd3;
+  color: #fff;
+}
+.b-img img{
+  height: 550px;
+  width: 100%;
+}
+
